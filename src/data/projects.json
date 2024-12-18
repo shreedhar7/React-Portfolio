@@ -1,0 +1,42 @@
+[
+  {
+    "title": "OneErpSuite",
+    "imageSrc": "projects/oneerpsuite.png",
+    "description": "A powerful management app for quarry and crusher business owners, deployed on both the Google Play Store and Apple App Store.",
+    "skills": ["React Native", "REST Api", "CSS" , "Figma" ],
+    "demo": "https://play.google.com/store/apps/details?id=com.shreedhar_t.modomines&hl=en_IN",
+    "source": "https://github.com/shreedhar7/OneErpSuite"
+  },
+  {
+    "title": "Modofleets",
+    "imageSrc": "projects/modofleets.png",
+    "description": "A great process management app for Construction business owners. Where they can maintain the A - Z process of the construction works .",
+    "skills": ["React Native", "REST Api", "CSS" , "Figma" ],
+    "demo": "https://github.com/shreedhar7/Modofleets",
+    "source": "https://github.com/shreedhar7/Modofleets"
+  },
+  {
+    "title": "Shopzee",
+    "imageSrc": "projects/shopzee.png",
+    "description": "It is a e-commerce app I developed it to deepen my expertise in state management with Redux, animations and user notifications messages.",
+    "skills": ["React Native", "Redux", "Firebase" , "Figma", "CSS"],
+    "demo": "https://github.com/shreedhar7/shopzee",
+    "source": "https://github.com/shreedhar7/shopzee"
+  },
+  {
+    "title": "Dating App",
+    "imageSrc": "projects/tinder.png",
+    "description": "It is a social matching app designed to replicate the core functionality of Tinder.",
+    "skills": ["React Native", "Firebase", "Firestore" , "Figma", "CSS"],
+    "demo": "https://github.com/shreedhar7/Tinder-Clone",
+    "source": "https://github.com/shreedhar7/Tinder-Clone"
+  },
+  {
+    "title": "React Portfolio",
+    "imageSrc": "projects/portfolio.png",
+    "description": "It is my portfolio website , made with React Js and hosted it in Netlify (Web Development)",
+    "skills": ["React Js", "HTML", "CSS","Netlify" , "Figma"],
+    "demo": "https://github.com/shreedhar7/React-Portfolio",
+    "source": "https://github.com/shreedhar7/React-Portfolio"
+  }
+]

@@ -1,0 +1,39 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+        "title": "JS",
+        "imageSrc": "skills/js.png"
+      },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "Redux",
+        "imageSrc": "skills/redux.png"
+      },
+      {
+        "title": "Amplify",
+        "imageSrc": "skills/aws.png"
+      },
+    {
+      "title": "Connect",
+      "imageSrc": "skills/appstore.png"
+    },
+    {
+      "title": "Console",
+      "imageSrc": "skills/playstore.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    }
+
+  ]
