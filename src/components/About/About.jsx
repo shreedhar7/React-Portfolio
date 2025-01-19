@@ -18,7 +18,7 @@ export const About = () => {
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
             <div className={styles.aboutItemText}>
-              <h3 >Junior Softwae Developer</h3>
+              <h3 >Junior Software Developer</h3>
               <h2 style={{ fontSize: "17px" }}>Onemodo Technologies Pvt Ltd</h2>
               <h1 style={{ fontSize: "15px" , marginBottom: "5%" }}>June 2023 - Present</h1>
               <p style={{ fontSize: "18px" , fontWeight : 'light'}}>
